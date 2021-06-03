@@ -137,4 +137,5 @@ console.log(objF2 instanceof E2);
 console.log(objF2 instanceof F2);
 
 console.log(objE2);
+
 console.log(objF2);
